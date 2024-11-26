@@ -1,0 +1,6 @@
+My_Passw@rd_@1234
+defcon
+John
+rm banner
+ln -s /root/flag.txt banner
+exit

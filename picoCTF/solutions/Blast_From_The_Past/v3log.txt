@@ -1,0 +1,319 @@
+  ExifToolVersion = 13.03
+  FileName = original.jpg
+  Directory = .
+  FileSize = 2854545
+  FileModifyDate = 1732138752
+  FileAccessDate = 1732138768
+  FileInodeChangeDate = 1732138752
+  FilePermissions = 33188
+  FileType = JPEG
+  FileTypeExtension = JPG
+  MIMEType = image/jpeg
+JPEG APP1 (65178 bytes):
+      0006: 45 78 69 66 00 00 49 49 2a 00 08 00 00 00 13 00 [Exif..II*.......]
+      0016: 00 01 03 00 01 00 00 00 a0 0f 00 00 01 01 03 00 [................]
+      0026: 01 00 00 00 b8 0b 00 00 0e 01 02 00 20 00 00 00 [............ ...]
+      0036: f2 00 00 00 0f 01 02 00 20 00 00 00 12 01 00 00 [........ .......]
+      0046: 10 01 02 00 20 00 00 00 32 01 00 00 12 01 03 00 [.... ...2.......]
+      0056: 01 00 00 00 06 00 00 00 1a 01 05 00 01 00 00 00 [................]
+      0066: 52 01 00 00 1b 01 05 00 01 00 00 00 5a 01 00 00 [R...........Z...]
+      [snip 65066 bytes]
+  ExifByteOrder = II
+  + [IFD0 directory with 19 entries]
+  | 0)  ImageWidth = 4000
+  |     - Tag 0x0100 (2 bytes, int16u[1]):
+  |         001e: a0 0f                                           [..]
+  | 1)  ImageHeight = 3000
+  |     - Tag 0x0101 (2 bytes, int16u[1]):
+  |         002a: b8 0b                                           [..]
+  | 2)  ImageDescription = 
+  |     - Tag 0x010e (32 bytes, string[32]):
+  |         00fe: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  |         010e: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | 3)  Make = samsung
+  |     - Tag 0x010f (32 bytes, string[32]):
+  |         011e: 73 61 6d 73 75 6e 67 00 00 00 00 00 00 00 00 00 [samsung.........]
+  |         012e: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | 4)  Model = SM-A326U
+  |     - Tag 0x0110 (32 bytes, string[32]):
+  |         013e: 53 4d 2d 41 33 32 36 55 00 00 00 00 00 00 00 00 [SM-A326U........]
+  |         014e: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | 5)  Orientation = 6
+  |     - Tag 0x0112 (2 bytes, int16u[1]):
+  |         005a: 06 00                                           [..]
+  | 6)  XResolution = 72 (72/1)
+  |     - Tag 0x011a (8 bytes, rational64u[1]):
+  |         015e: 48 00 00 00 01 00 00 00                         [H.......]
+  | 7)  YResolution = 72 (72/1)
+  |     - Tag 0x011b (8 bytes, rational64u[1]):
+  |         0166: 48 00 00 00 01 00 00 00                         [H.......]
+  | 8)  ResolutionUnit = 2
+  |     - Tag 0x0128 (2 bytes, int16u[1]):
+  |         007e: 02 00                                           [..]
+  | 9)  Software = MediaTek Camera Application
+  |     - Tag 0x0131 (32 bytes, string[32]):
+  |         016e: 4d 65 64 69 61 54 65 6b 20 43 61 6d 65 72 61 20 [MediaTek Camera ]
+  |         017e: 41 70 70 6c 69 63 61 74 69 6f 6e 00 00 00 00 00 [Application.....]
+  | 10) ModifyDate = 1970:01:01 00:00:00
+  |     - Tag 0x0132 (20 bytes, string[20]):
+  |         018e: 31 39 37 30 3a 30 31 3a 30 31 20 30 30 3a 30 30 [1970:01:01 00:00]
+  |         019e: 3a 30 30 00                                     [:00.]
+  | 11) YCbCrPositioning = 2
+  |     - Tag 0x0213 (2 bytes, int16u[1]):
+  |         00a2: 02 00                                           [..]
+  | 12) Exif_0x0220 = 0
+  |     - Tag 0x0220 (4 bytes, int32u[1]):
+  |         00ae: 00 00 00 00                                     [....]
+  | 13) Exif_0x0221 = 0
+  |     - Tag 0x0221 (4 bytes, int32u[1]):
+  |         00ba: 00 00 00 00                                     [....]
+  | 14) Exif_0x0222 = 0
+  |     - Tag 0x0222 (4 bytes, int32u[1]):
+  |         00c6: 00 00 00 00                                     [....]
+  | 15) Exif_0x0223 = 0
+  |     - Tag 0x0223 (4 bytes, int32u[1]):
+  |         00d2: 00 00 00 00                                     [....]
+  | 16) Exif_0x0224 = 0
+  |     - Tag 0x0224 (4 bytes, int32u[1]):
+  |         00de: 00 00 00 00                                     [....]
+  | 17) Exif_0x0225 = 
+  |     - Tag 0x0225 (32 bytes, string[32]):
+  |         01a2: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  |         01b2: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 [................]
+  | 18) ExifOffset (SubDirectory) -->
+  |     - Tag 0x8769 (4 bytes, int32u[1]):
+  |         00f6: b6 01 00 00                                     [....]
+  | + [ExifIFD directory with 35 entries]
+  | | 0)  ExposureTime = 0.041662 (41662000/1000000000)
+  | |     - Tag 0x829a (8 bytes, rational64u[1]):
+  | |         036c: 30 b6 7b 02 00 ca 9a 3b                         [0.{....;]
+  | | 1)  FNumber = 1.8 (1800/1000)
+  | |     - Tag 0x829d (8 bytes, rational64u[1]):
+  | |         0374: 08 07 00 00 e8 03 00 00                         [........]
+  | | 2)  ExposureProgram = 2
+  | |     - Tag 0x8822 (2 bytes, int16u[1]):
+  | |         01e4: 02 00                                           [..]
+  | | 3)  ISO = 500
+  | |     - Tag 0x8827 (2 bytes, int16u[1]):
+  | |         01f0: f4 01                                           [..]
+  | | 4)  SensitivityType = 0
+  | |     - Tag 0x8830 (2 bytes, int16u[1]):
+  | |         01fc: 00 00                                           [..]
+  | | 5)  RecommendedExposureIndex = 0
+  | |     - Tag 0x8832 (4 bytes, int32u[1]):
+  | |         0208: 00 00 00 00                                     [....]
+  | | 6)  ExifVersion = 0220
+  | |     - Tag 0x9000 (4 bytes, undef[4]):
+  | |         0214: 30 32 32 30                                     [0220]
+  | | 7)  DateTimeOriginal = 1970:01:01 00:00:00
+  | |     - Tag 0x9003 (20 bytes, string[20]):
+  | |         037c: 31 39 37 30 3a 30 31 3a 30 31 20 30 30 3a 30 30 [1970:01:01 00:00]
+  | |         038c: 3a 30 30 00                                     [:00.]
+  | | 8)  CreateDate = 1970:01:01 00:00:00
+  | |     - Tag 0x9004 (20 bytes, string[20]):
+  | |         0390: 31 39 37 30 3a 30 31 3a 30 31 20 30 30 3a 30 30 [1970:01:01 00:00]
+  | |         03a0: 3a 30 30 00                                     [:00.]
+  | | 9)  OffsetTime = +00:00
+  | |     - Tag 0x9010 (7 bytes, string[7]):
+  | |         03a4: 2b 30 30 3a 30 30 00                            [+00:00.]
+  | | 10) OffsetTimeOriginal = +00:00
+  | |     - Tag 0x9011 (7 bytes, string[7]):
+  | |         03ac: 2b 30 30 3a 30 30 00                            [+00:00.]
+  | | 11) OffsetTimeDigitized = +00:00
+  | |     - Tag 0x9012 (7 bytes, string[7]):
+  | |         03b4: 2b 30 30 3a 30 30 00                            [+00:00.]
+  | | 12) ComponentsConfiguration = 1 2 3 0
+  | |     - Tag 0x9101 (4 bytes, undef[4] read as int8u[4]):
+  | |         025c: 01 02 03 00                                     [....]
+  | | 13) ShutterSpeedValue = 4.585 (4585/1000)
+  | |     - Tag 0x9201 (8 bytes, rational64s[1]):
+  | |         03bc: e9 11 00 00 e8 03 00 00                         [........]
+  | | 14) ApertureValue = 1.8 (1800/1000)
+  | |     - Tag 0x9202 (8 bytes, rational64u[1]):
+  | |         03c4: 08 07 00 00 e8 03 00 00                         [........]
+  | | 15) BrightnessValue = 3 (30/10)
+  | |     - Tag 0x9203 (8 bytes, rational64s[1]):
+  | |         03cc: 1e 00 00 00 0a 00 00 00                         [........]
+  | | 16) ExposureCompensation = 0 (0/10)
+  | |     - Tag 0x9204 (8 bytes, rational64s[1]):
+  | |         03d4: 00 00 00 00 0a 00 00 00                         [........]
+  | | 17) MaxApertureValue = 1.69 (169/100)
+  | |     - Tag 0x9205 (8 bytes, rational64u[1]):
+  | |         03dc: a9 00 00 00 64 00 00 00                         [....d...]
+  | | 18) MeteringMode = 2
+  | |     - Tag 0x9207 (2 bytes, int16u[1]):
+  | |         02a4: 02 00                                           [..]
+  | | 19) LightSource = 255
+  | |     - Tag 0x9208 (2 bytes, int16u[1]):
+  | |         02b0: ff 00                                           [..]
+  | | 20) Flash = 9
+  | |     - Tag 0x9209 (2 bytes, int16u[1]):
+  | |         02bc: 09 00                                           [..]
+  | | 21) FocalLength = 4.6 (4600/1000)
+  | |     - Tag 0x920a (8 bytes, rational64u[1]):
+  | |         03e4: f8 11 00 00 e8 03 00 00                         [........]
+  | | 22) SubSecTime = 001
+  | |     - Tag 0x9290 (4 bytes, string[4]):
+  | |         02d4: 30 30 31 00                                     [001.]
+  | | 23) SubSecTimeOriginal = 001
+  | |     - Tag 0x9291 (4 bytes, string[4]):
+  | |         02e0: 30 30 31 00                                     [001.]
+  | | 24) SubSecTimeDigitized = 001
+  | |     - Tag 0x9292 (4 bytes, string[4]):
+  | |         02ec: 30 30 31 00                                     [001.]
+  | | 25) FlashpixVersion = 0100
+  | |     - Tag 0xa000 (4 bytes, undef[4]):
+  | |         02f8: 30 31 30 30                                     [0100]
+  | | 26) ColorSpace = 1
+  | |     - Tag 0xa001 (2 bytes, int16u[1]):
+  | |         0304: 01 00                                           [..]
+  | | 27) ExifImageWidth = 4000
+  | |     - Tag 0xa002 (4 bytes, int32u[1]):
+  | |         0310: a0 0f 00 00                                     [....]
+  | | 28) ExifImageHeight = 3000
+  | |     - Tag 0xa003 (4 bytes, int32u[1]):
+  | |         031c: b8 0b 00 00                                     [....]
+  | | 29) InteropOffset (SubDirectory) -->
+  | |     - Tag 0xa005 (4 bytes, int32u[1]):
+  | |         0328: e8 03 00 00                                     [....]
+  | | + [InteropIFD directory with 2 entries]
+  | | | 0)  InteropIndex = R98
+  | | |     - Tag 0x0001 (4 bytes, string[4]):
+  | | |         03fe: 52 39 38 00                                     [R98.]
+  | | | 1)  InteropVersion = 0100
+  | | |     - Tag 0x0002 (4 bytes, undef[4]):
+  | | |         040a: 30 31 30 30                                     [0100]
+  | | 30) ExposureMode = 0
+  | |     - Tag 0xa402 (2 bytes, int16u[1]):
+  | |         0334: 00 00                                           [..]
+  | | 31) WhiteBalance = 0
+  | |     - Tag 0xa403 (2 bytes, int16u[1]):
+  | |         0340: 00 00                                           [..]
+  | | 32) DigitalZoomRatio = 1 (100/100)
+  | |     - Tag 0xa404 (8 bytes, rational64u[1]):
+  | |         03ec: 64 00 00 00 64 00 00 00                         [d...d...]
+  | | 33) FocalLengthIn35mmFormat = 25
+  | |     - Tag 0xa405 (2 bytes, int16u[1]):
+  | |         0358: 19 00                                           [..]
+  | | 34) SceneCaptureType = 0
+  | |     - Tag 0xa406 (2 bytes, int16u[1]):
+  | |         0364: 00 00                                           [..]
+  + [IFD1 directory with 10 entries]
+  | 0)  ImageWidth = 512
+  |     - Tag 0x0100 (4 bytes, int32u[1]):
+  |         041c: 00 02 00 00                                     [....]
+  | 1)  ImageHeight = 384
+  |     - Tag 0x0101 (4 bytes, int32u[1]):
+  |         0428: 80 01 00 00                                     [....]
+  | 2)  Compression = 6
+  |     - Tag 0x0103 (2 bytes, int16u[1]):
+  |         0434: 06 00                                           [..]
+  | 3)  Orientation = 6
+  |     - Tag 0x0112 (2 bytes, int16u[1]):
+  |         0440: 06 00                                           [..]
+  | 4)  XResolution = 72 (72/1)
+  |     - Tag 0x011a (8 bytes, rational64u[1]):
+  |         0490: 48 00 00 00 01 00 00 00                         [H.......]
+  | 5)  YResolution = 72 (72/1)
+  |     - Tag 0x011b (8 bytes, rational64u[1]):
+  |         0498: 48 00 00 00 01 00 00 00                         [H.......]
+  | 6)  ResolutionUnit = 2
+  |     - Tag 0x0128 (2 bytes, int16u[1]):
+  |         0464: 02 00                                           [..]
+  | 7)  ThumbnailOffset = 1172
+  |     - Tag 0x0201 (4 bytes, int32u[1]):
+  |         0470: 94 04 00 00                                     [....]
+  | 8)  ThumbnailLength = 64000
+  |     - Tag 0x0202 (4 bytes, int32u[1]):
+  |         047c: 00 fa 00 00                                     [....]
+  | 9)  YCbCrPositioning = 2
+  |     - Tag 0x0213 (2 bytes, int16u[1]):
+  |         0488: 02 00                                           [..]
+JPEG APP1 (2836 bytes):
+      fea4: 68 74 74 70 3a 2f 2f 6e 73 2e 61 64 6f 62 65 2e [http://ns.adobe.]
+      feb4: 63 6f 6d 2f 78 61 70 2f 31 2e 30 2f 00 3c 3f 78 [com/xap/1.0/.<?x]
+      fec4: 70 61 63 6b 65 74 20 62 65 67 69 6e 3d 27 ef bb [packet begin='..]
+      fed4: bf 27 20 69 64 3d 27 57 35 4d 30 4d 70 43 65 68 [.' id='W5M0MpCeh]
+      fee4: 69 48 7a 72 65 53 7a 4e 54 63 7a 6b 63 39 64 27 [iHzreSzNTczkc9d']
+      fef4: 3f 3e 0a 3c 78 3a 78 6d 70 6d 65 74 61 20 78 6d [?>.<x:xmpmeta xm]
+      ff04: 6c 6e 73 3a 78 3d 27 61 64 6f 62 65 3a 6e 73 3a [lns:x='adobe:ns:]
+      [snip 2724 bytes]
+  + [XMP directory, 2807 bytes]
+  | XMPToolkit = Image::ExifTool 13.03
+  | TimeStamp = 1
+  | - Tag 'x:xmpmeta/rdf:RDF/rdf:Description/apple-fi:Timestamp'
+JPEG DQT (65 bytes):
+     109bc: 00 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 [................]
+     109cc: 02 02 01 01 02 02 04 04 03 02 03 03 04 06 05 05 [................]
+     109dc: 04 04 05 06 07 09 08 06 05 06 05 06 07 06 08 08 [................]
+     109ec: 08 09 09 09 09 0a 07 08 0b 09 09 07 0c 09 07 07 [................]
+     109fc: 07                                              [.]
+JPEG DQT (65 bytes):
+     10a01: 01 01 01 01 02 02 02 05 03 03 05 08 07 06 07 08 [................]
+     10a11: 08 08 08 08 07 08 08 08 08 08 08 08 08 08 08 08 [................]
+     10a21: 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08 [................]
+     10a31: 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08 [................]
+     10a41: 08                                              [.]
+JPEG SOF0 (15 bytes):
+     10a46: 08 0b b8 0f a0 03 01 22 00 02 11 01 03 11 01    [.......".......]
+  ImageWidth = 4000
+  ImageHeight = 3000
+  EncodingProcess = 0
+  BitsPerSample = 8
+  ColorComponents = 3
+  YCbCrSubSampling = 2 2
+JPEG DHT (29 bytes):
+     10a59: 00 00 01 05 01 01 01 01 01 01 00 00 00 00 00 00 [................]
+     10a69: 00 00 01 02 03 04 05 06 07 08 09 0a 0b          [.............]
+JPEG DHT (179 bytes):
+     10a7a: 10 00 02 01 03 03 02 04 03 05 05 04 04 00 00 01 [................]
+     10a8a: 7d 01 02 03 00 04 11 05 12 21 31 41 06 13 51 61 [}........!1A..Qa]
+     10a9a: 07 22 71 14 32 81 91 a1 08 23 42 b1 c1 15 52 d1 [."q.2....#B...R.]
+     10aaa: f0 24 33 62 72 82 09 0a 16 17 18 19 1a 25 26 27 [.$3br........%&']
+     10aba: 28 29 2a 34 35 36 37 38 39 3a 43 44 45 46 47 48 [()*456789:CDEFGH]
+     10aca: 49 4a 53 54 55 56 57 58 59 5a 63 64 65 66 67 68 [IJSTUVWXYZcdefgh]
+     10ada: 69 6a 73 74 75 76 77 78 79 7a 83 84 85 86 87 88 [ijstuvwxyz......]
+      [snip 67 bytes]
+JPEG DHT (29 bytes):
+     10b31: 01 00 03 01 01 01 01 01 01 01 01 01 00 00 00 00 [................]
+     10b41: 00 00 01 02 03 04 05 06 07 08 09 0a 0b          [.............]
+JPEG DHT (179 bytes):
+     10b52: 11 00 02 01 02 04 04 03 04 07 05 04 04 00 01 02 [................]
+     10b62: 77 00 01 02 03 11 04 05 21 31 06 12 41 51 07 61 [w.......!1..AQ.a]
+     10b72: 71 13 22 32 81 08 14 42 91 a1 b1 c1 09 23 33 52 [q."2...B.....#3R]
+     10b82: f0 15 62 72 d1 0a 16 24 34 e1 25 f1 17 18 19 1a [..br...$4.%.....]
+     10b92: 26 27 28 29 2a 35 36 37 38 39 3a 43 44 45 46 47 [&'()*56789:CDEFG]
+     10ba2: 48 49 4a 53 54 55 56 57 58 59 5a 63 64 65 66 67 [HIJSTUVWXYZcdefg]
+     10bb2: 68 69 6a 73 74 75 76 77 78 79 7a 82 83 84 85 86 [hijstuvwxyz.....]
+      [snip 67 bytes]
+JPEG SOS
+JPEG EOI
+Samsung trailer (143 bytes at offset 0x2b8e02):
+  2b8e02: 00 00 01 0a 0e 00 00 00 49 6d 61 67 65 5f 55 54 [........Image_UT]
+  2b8e12: 43 5f 44 61 74 61 31 37 30 30 35 31 33 31 38 31 [C_Data1700513181]
+  2b8e22: 34 32 30 00 00 a1 0a 08 00 00 00 4d 43 43 5f 44 [420........MCC_D]
+  2b8e32: 61 74 61 33 31 30 00 00 61 0c 18 00 00 00 43 61 [ata310..a.....Ca]
+  2b8e42: 6d 65 72 61 5f 43 61 70 74 75 72 65 5f 4d 6f 64 [mera_Capture_Mod]
+  2b8e52: 65 5f 49 6e 66 6f 31 53 45 46 48 6b 00 00 00 03 [e_Info1SEFHk....]
+  2b8e62: 00 00 00 00 00 01 0a 57 00 00 00 23 00 00 00 00 [.......W...#....]
+  2b8e72: 00 a1 0a 34 00 00 00 13 00 00 00 00 00 61 0c 21 [...4.........a.!]
+  2b8e82: 00 00 00 21 00 00 00 30 00 00 00 53 45 46 54    [...!...0...SEFT]
+  SamsungTrailer_0x0a01Name = Image_UTC_Data
+  - Tag '0x0a01-name' (14 bytes):
+    2b8e0a: 49 6d 61 67 65 5f 55 54 43 5f 44 61 74 61       [Image_UTC_Data]
+  TimeStamp = 1700513181420
+  - Tag '0x0a01' (13 bytes):
+    2b8e18: 31 37 30 30 35 31 33 31 38 31 34 32 30          [1700513181420]
+  SamsungTrailer_0x0aa1Name = MCC_Data
+  - Tag '0x0aa1-name' (8 bytes):
+    2b8e2d: 4d 43 43 5f 44 61 74 61                         [MCC_Data]
+  MCCData = 310
+  - Tag '0x0aa1' (3 bytes):
+    2b8e35: 33 31 30                                        [310]
+  SamsungTrailer_0x0c61Name = Camera_Capture_Mode_Info
+  - Tag '0x0c61-name' (24 bytes):
+    2b8e40: 43 61 6d 65 72 61 5f 43 61 70 74 75 72 65 5f 4d [Camera_Capture_M]
+    2b8e50: 6f 64 65 5f 49 6e 66 6f                         [ode_Info]
+  SamsungTrailer_0x0c61 = 1
+  - Tag '0x0c61' (1 bytes):
+    2b8e58: 31                                              [1]
