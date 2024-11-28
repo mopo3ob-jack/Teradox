@@ -3,7 +3,7 @@
 
 ; Floating point arguments are stored in xmm registers starting at xmm0.
 ; Floating point return values are stored in xmm0.
-; float smoothstep(float x, float a, float b);
+; double smoothstep(double x, double a, double b);
 extern smoothstep
 
 %endif
