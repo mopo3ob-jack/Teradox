@@ -15,7 +15,7 @@ bin/%: lib/%/**
 	ld $^ $(LD_FLAGS) -o $@
 
 lib/%.o: src/%.s
-	nasm -felf64 $^ -o $@
+	cd $(dir $^) && nasm -felf64 ../../$^ -o ../../$@
 
 %/:
 	mkdir -p $@
