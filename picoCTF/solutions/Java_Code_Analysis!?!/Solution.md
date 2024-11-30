@@ -46,3 +46,5 @@ For the email, [BookShelfConfig.java](src/main/java/io/github/nandandesai/pico/c
 After editing the payload, regenerating the hash with the secret key, and
 storing the new Token in local storage, all that's left is to reload the page
 and access the flag.
+
+-Lqnk4
